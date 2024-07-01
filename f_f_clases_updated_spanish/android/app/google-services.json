@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077795263527",
+    "project_id": "f-f-clases-updated-span-jv4bf7",
+    "storage_bucket": "f-f-clases-updated-span-jv4bf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077795263527:android:d63ad78d27e66a481a6a02",
+        "android_client_info": {
+          "package_name": "com.mycompany.fflow1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFfTDtZDH6j0rIr5Z6xYHgiOE9vlsRyNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
